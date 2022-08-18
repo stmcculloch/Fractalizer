@@ -6,6 +6,6 @@ For python 3. Download everything. Open Replicate_Vx.x.x.py with a code editor a
 
 Run Replicate_Vx.x.x.py. and hope that it works
 
-Open Replicate_Vx.x.x.py with a code editor, and adjust the source image. 
+To change how things work, open Replicate_Vx.x.x.py with a code editor, and adjust the source image. 
 
 Adjust "strength" and "threshold" to change how the effect looks. There's also a saturation filter added at the end to make things look a little nicer.
